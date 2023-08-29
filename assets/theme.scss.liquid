@@ -10254,6 +10254,33 @@ body:not(.dbtfy-wish_list-destroy) {
 #shopify-section-template--16776407679204__1630836405c6b5c7be{
     background-color: #f8df77;
 }
+.product_shortDescription p {
+    text-align:center;
+  }
+  .product-single #topPagebanner .imageContainer{
+    display:none;
+  }
+  .product-single.product-type_single  #topPagebanner .imageContainer {
+    color: transparent;
+    background-image: url(https://cdn.shopify.com/s/files/1/0597/9504/6598/files/Banner_Produt_Page_D_copy_1.jpg?v=1666604326);
+    height: 106px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display:block;
+  }
+  #topPagebanner{
+    padding: 0 !important;
+  }
+  @media all and (max-width:480px){
+    .product-single #topPagebanner .imageContainer{
+        display:none;
+      }
+      .product-single.product-type_single #topPagebanner .imageContainer {
+        background-image: url(https://cdn.shopify.com/s/files/1/0597/9504/6598/files/Banner_Produt_Page_D_copy_1.jpg?v=1666604326);
+        height: 60px;
+      }
+  }
 {%- if settings.custom_style != blank -%}
 /*================ _custom_styles ================*/
 {{ settings.custom_style }}

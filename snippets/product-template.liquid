@@ -125,6 +125,13 @@
           </h4>
         </div>
         {% endif%}  
+        {% if product.metafields.extrainfo.product_short_description %}
+        <div class="product_shortDescription">
+          <p>
+            {{ product.metafields.extrainfo.product_short_description }}
+          </p>
+        </div>
+        {% endif %}
       {%- if section.settings.featured_product -%}
         {% unless emptyState %}
           </a>
@@ -192,6 +199,9 @@
 <div class="product-single" data-product-handle="{{ product.handle }}" data-product-id="{{ product.id }}" data-product-collections="{{ product_collections }}">
   <div class="box">
     <div class="wrapper">
+      <div id="topPagebanner" class="grid__item large--twelve-twelfths text-center">
+        <div class="imageContainer">.</div>
+      </div>
       <div class="grid product-single">
         {%- if title_position_mobile == "above" -%}
           <div class="grid__item product-general-info-mobile medium--hide large--hide">
