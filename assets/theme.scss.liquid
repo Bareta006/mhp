@@ -10236,7 +10236,9 @@ body:not(.dbtfy-wish_list-destroy) {
     padding: 10px 0 10px;
     font-size: 0.9em;
   }
-
+.shopify-section.gallery-section .media-wrapper,.shopify-section.gallery-section .overlay:after{
+    background-color: unset;
+}
 {%- if settings.custom_style != blank -%}
 /*================ _custom_styles ================*/
 {{ settings.custom_style }}
