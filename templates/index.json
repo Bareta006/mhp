@@ -1,1 +1,317 @@
-{"sections":{"1630834991eaf29f87":{"type":"hero","blocks":{"562c9697-3dec-4c72-887e-63950275d619":{"type":"slide","settings":{"title":"Sales Slide #1","overlay":false,"image":"shopify:\/\/shop_images\/slider_1__nobg_1.jpg","image_mobile":"shopify:\/\/shop_images\/slider_1_mobile__nobg_2.jpg","image_position":"top center","image_position_mobile":"bottom center","slide_link":"","video":"","heading_text":"Spring Sale","text":"<h1><strong>50% OFF<\/strong><\/h1><p><strong>2nd Item<\/strong><\/p><p>* Free shipping on orders  over $75<br\/>* auto cart discount - no coupon needed<\/p>","text_position":"align-center","text_position_mobile":"align-top","text_alignment":"text-center","text_alignment_mobile":"text-center","enable_custom_fonts":true,"slideshow_family":"sans-serif","button_label":"Shop Now","button_link":"shopify:\/\/collections\/single-heating-pad","button_style":"btn--primary","button_label_2":"","button_link_2":"","button_style_2":""}},"c70f419e-88e2-426b-80e3-528492651641":{"type":"slide","settings":{"title":"Sale Slide #2","overlay":false,"image":"shopify:\/\/shop_images\/Fall_Sale_2.jpg","image_mobile":"shopify:\/\/shop_images\/Fall_Sale_2_mobile_copy.jpg","image_position":"center center","image_position_mobile":"bottom center","slide_link":"","video":"","heading_text":"Spring Sale","text":"<h1><strong>50% Off<\/strong><\/h1><p><strong>Our heating pads sets<\/strong><\/p><p>Crazy Deal for 3 Heating Pads<\/p><p>* Free shipping on orders  over $75<\/p>","text_position":"align-center","text_position_mobile":"align-top","text_alignment":"text-center","text_alignment_mobile":"text-center","enable_custom_fonts":false,"slideshow_family":"sans-serif","button_label":"Shop now","button_link":"shopify:\/\/collections\/heating-pad-sets","button_style":"btn--primary","button_label_2":"","button_link_2":"","button_style_2":""}}},"block_order":["562c9697-3dec-4c72-887e-63950275d619","c70f419e-88e2-426b-80e3-528492651641"],"settings":{"show_on_desktop":true,"show_on_mobile":true,"section_height":"large","section_height_mobile":"large","arrows":true,"dots":true,"autoplay":false,"autoplayspeed":8}},"1630835843baa2f7af":{"type":"featured-products","settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"50% off 2nd Item Sale","subtitle":"Limited Sale - order now our effective natural pain-relievers, tailored to suit treatment for all types of pains and aches.","section_style":"section-default","home_featured_products":"single-heating-pad","rows":"3","desktop_grid":"4","mobile_grid":"1","show_view_all":true,"button_label":"View all","button_link":"shopify:\/\/collections\/all","button_style":"btn--primary","slider_related_products":true,"arrows":true,"dots":true,"autoplay":false,"autoplayspeed":5}},"16390370346c316d7a":{"type":"featured-products","settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"Heating Pads Sets 50% off Sale","subtitle":"Hurry and get our special deal for 3 best selling heating pads.","section_style":"section-default","home_featured_products":"heating-pad-sets","rows":"1","desktop_grid":"2","mobile_grid":"1","show_view_all":false,"button_label":"View all","button_link":"","button_style":"btn-outline-primary","slider_related_products":true,"arrows":true,"dots":true,"autoplay":false,"autoplayspeed":5}},"16308363051c1aecd5":{"type":"gallery","blocks":{"16308363051c1aecd5-3":{"type":"image","settings":{"title":"","image":"shopify:\/\/shop_images\/Mask_Group_5.png","alignment":"center center","link":"https:\/\/www.chicagotribune.com\/consumer-reviews\/sns-bestreviews-wellness-the-best-microwavable-heating-pad-20191007-story.html","cta_label":""}},"16308363051c1aecd5-2":{"type":"image","settings":{"title":"","image":"shopify:\/\/shop_images\/Mask_Group_4.png","alignment":"center center","link":"https:\/\/www.health.com\/home\/best-heating-pads","cta_label":""}},"16308363051c1aecd5-1":{"type":"image","settings":{"title":"","image":"shopify:\/\/shop_images\/Mask_Group_3.png","alignment":"center center","link":"https:\/\/bestreviews.com\/best-microwavable-heating-pads","cta_label":""}},"16308363051c1aecd5-0":{"type":"image","settings":{"title":"","image":"shopify:\/\/shop_images\/Mask_Group_2.png","alignment":"center center","link":"https:\/\/www.bustle.com\/life\/the-best-microwavable-heating-pads","cta_label":""}}},"block_order":["16308363051c1aecd5-3","16308363051c1aecd5-2","16308363051c1aecd5-1","16308363051c1aecd5-0"],"settings":{"show_on_desktop":true,"show_on_mobile":true,"full_width":false,"title":"Wrote About Us","subtitle":"Don't take it just from us - many wrote about our life-changing products.Check the reviews to hear what others have to say about us.","section_style":"section-blank","section_height":"xsmall"}},"1638788589fa8c2adf":{"type":"newsletter","settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"","subtitle":"","section_style":"section-blank","customer_tag":"newsletter"}},"1630835807244097c6":{"type":"featured-columns","blocks":{"1630835807244097c6-0":{"type":"text_block","settings":{"title":"Only the Best - since 1999","image":"shopify:\/\/shop_images\/badge.png","image_link":"","icon":"","heading_text":"Only the Best - since 1999","text":"<p>Our line of products are aimed to help you relieve any sort of pains and aches. Your constant feedback helped us create something amazing, that assists our satisfied clients from all over the world. We continue to bring innovation to the pain-relief world, by using only the best ingredients and techniques.<br\/><\/p>","button_style":"btn--primary","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/all"}},"1630835807244097c6-1":{"type":"text_block","settings":{"title":"The Right Use for You","image":"shopify:\/\/shop_images\/temperature.png","image_link":"","icon":"","heading_text":"The Right Use for You","text":"<p>The products have been tailored to provide you with a variety of benefits. With hot & cold therapy, our multipurpose items can help  relieve your pain and help you get through the week.<\/p>","button_style":"btn--primary","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/all"}},"1630835807244097c6-2":{"type":"text_block","settings":{"title":"Change Your Quality of Life","image":"shopify:\/\/shop_images\/mail_1.png","image_link":"","icon":"","heading_text":"Change Your Quality of Life","text":"<p>It's great that you have decided to take care of your body. We want to be part of this journey with you. In our monthly newsletter you will find new ways to enjoy My Heating Pad products, together with info about successfully dealing with pain. Start your change here - sign up for our newsletter for a better, pain-free life.<br\/><br\/><\/p>","button_style":"btn--primary","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/all"}}},"block_order":["1630835807244097c6-0","1630835807244097c6-1","1630835807244097c6-2"],"settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"Why My HeatingPad?","subtitle":"My Heating Pad offers an effective natural pain-relief solution. It can help relieve neck & shoulder pain, backaches, joints pain and other discomforts.","section_style":"section-default","text_align":"text-center"}},"1630836405c6b5c7be":{"type":"featured-row","settings":{"show_on_desktop":true,"show_on_mobile":true,"image":"shopify:\/\/shop_images\/Group_103.png","image_link":"","section_style":"section-blank","text_size":"medium","image_alignement":"right","text_alignment":"","title":"About us","text":"<p>When you’re in pain, it can be challenging to get through your day. We know this all too well. <\/p><p>My Heating Pad has been providing natural products for pain relief since 1999. Our mission is to provide high quality products that are affordable and work when you need them most.<br\/><br\/>We have helped thousands of people find the right product, whether they are looking for temporary relief or chronic pain management.<\/p>","button_style":"btn--primary","button_label":"Read more about us","button_link":"shopify:\/\/pages\/its-about-us"}},"16308364172f0d167e":{"type":"featured-row","disabled":true,"settings":{"show_on_desktop":false,"show_on_mobile":false,"image":"shopify:\/\/shop_images\/portrait-happy-doctors-with-clipboard_1_1.png","image_link":"","section_style":"section-blank","text_size":"medium","image_alignement":"left","text_alignment":"","title":"Recommendations","text":"<p>Skip wires and plugs by opting for this microwavable pad instead. It’s filled with a combination of flaxseed and rice and heats up in just 90 seconds to give you instant relief. Small enough to fit onto knees or the crook of your neck, it’s double-sided with both a plush fleece and smooth cotton exterior to suit your preference. The budget-friendly pick, which is also great for cold therapy, has more than 700 perfect reviews from shoppers who say it’s durable, reliable, and easy to use.<\/p><p><\/p><p>-Doctor J.Choi -<\/p>","button_style":"btn--primary","button_label":"","button_link":""}},"1630836510ae979456":{"type":"featured-blog","settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"Our Blog","subtitle":"","section_style":"section-blank","blog":"natural-relief-blog","rows":"1","grid":"3","show_view_all":false,"button_style":"btn-outline-primary"}}},"order":["1630834991eaf29f87","1630835843baa2f7af","16390370346c316d7a","16308363051c1aecd5","1638788589fa8c2adf","1630835807244097c6","1630836405c6b5c7be","16308364172f0d167e","1630836510ae979456"]}
+{
+  "sections": {
+    "1630834991eaf29f87": {
+      "type": "hero",
+      "blocks": {
+        "562c9697-3dec-4c72-887e-63950275d619": {
+          "type": "slide",
+          "settings": {
+            "title": "Sales Slide #1",
+            "overlay": false,
+            "image": "shopify:\/\/shop_images\/slider_1__nobg_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/slider_1_mobile__nobg_2.jpg",
+            "image_position": "top center",
+            "image_position_mobile": "bottom center",
+            "slide_link": "",
+            "video": "",
+            "heading_text": "Spring Sale",
+            "text": "<h1><strong>50% OFF<\/strong><\/h1><p><strong>2nd Item<\/strong><\/p><p>* Free shipping on orders  over $75<br\/>* auto cart discount - no coupon needed<\/p>",
+            "text_position": "align-center",
+            "text_position_mobile": "align-top",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center",
+            "enable_custom_fonts": false,
+            "slideshow_family": "sans-serif",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/single-heating-pad",
+            "button_style": "",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": ""
+          }
+        },
+        "c70f419e-88e2-426b-80e3-528492651641": {
+          "type": "slide",
+          "settings": {
+            "title": "Sale Slide #2",
+            "overlay": false,
+            "image": "shopify:\/\/shop_images\/Fall_Sale_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Fall_Sale_2_mobile_copy.jpg",
+            "image_position": "center center",
+            "image_position_mobile": "bottom center",
+            "slide_link": "",
+            "video": "",
+            "heading_text": "Spring Sale",
+            "text": "<h1><strong>50% Off<\/strong><\/h1><p><strong>Our heating pads sets<\/strong><\/p><p>Crazy Deal for 3 Heating Pads<\/p><p>* Free shipping on orders  over $75<\/p>",
+            "text_position": "align-center",
+            "text_position_mobile": "align-top",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center",
+            "enable_custom_fonts": false,
+            "slideshow_family": "sans-serif",
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/heating-pad-sets",
+            "button_style": "btn--primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "562c9697-3dec-4c72-887e-63950275d619",
+        "c70f419e-88e2-426b-80e3-528492651641"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "section_height": "large",
+        "section_height_mobile": "large",
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 8
+      }
+    },
+    "1630835843baa2f7af": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "50% off 2nd Item Sale",
+        "subtitle": "Limited Sale - order now our effective natural pain-relievers, tailored to suit treatment for all types of pains and aches.",
+        "section_style": "section-default",
+        "home_featured_products": "single-heating-pad",
+        "rows": "3",
+        "desktop_grid": "4",
+        "mobile_grid": "1",
+        "show_view_all": true,
+        "button_label": "View all",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_style": "btn--primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16390370346c316d7a": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Heating Pads Sets 50% off Sale",
+        "subtitle": "Hurry and get our special deal for 3 best selling heating pads.",
+        "section_style": "section-default",
+        "home_featured_products": "heating-pad-sets",
+        "rows": "1",
+        "desktop_grid": "2",
+        "mobile_grid": "1",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16308363051c1aecd5": {
+      "type": "gallery",
+      "blocks": {
+        "16308363051c1aecd5-3": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mask_Group_5.png",
+            "alignment": "center center",
+            "link": "https:\/\/www.chicagotribune.com\/consumer-reviews\/sns-bestreviews-wellness-the-best-microwavable-heating-pad-20191007-story.html",
+            "cta_label": ""
+          }
+        },
+        "16308363051c1aecd5-2": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mask_Group_4.png",
+            "alignment": "center center",
+            "link": "https:\/\/www.health.com\/home\/best-heating-pads",
+            "cta_label": ""
+          }
+        },
+        "16308363051c1aecd5-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mask_Group_3.png",
+            "alignment": "center center",
+            "link": "https:\/\/bestreviews.com\/best-microwavable-heating-pads",
+            "cta_label": ""
+          }
+        },
+        "16308363051c1aecd5-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mask_Group_2.png",
+            "alignment": "center center",
+            "link": "https:\/\/www.bustle.com\/life\/the-best-microwavable-heating-pads",
+            "cta_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "16308363051c1aecd5-3",
+        "16308363051c1aecd5-2",
+        "16308363051c1aecd5-1",
+        "16308363051c1aecd5-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "Wrote About Us",
+        "subtitle": "Don't take it just from us - many wrote about our life-changing products.Check the reviews to hear what others have to say about us.",
+        "section_style": "section-blank",
+        "section_height": "xsmall"
+      }
+    },
+    "1638788589fa8c2adf": {
+      "type": "newsletter",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "customer_tag": "newsletter"
+      }
+    },
+    "1630835807244097c6": {
+      "type": "featured-columns",
+      "blocks": {
+        "1630835807244097c6-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "Only the Best - since 1999",
+            "image": "shopify:\/\/shop_images\/badge.png",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Only the Best - since 1999",
+            "text": "<p>Our line of products are aimed to help you relieve any sort of pains and aches. Your constant feedback helped us create something amazing, that assists our satisfied clients from all over the world. We continue to bring innovation to the pain-relief world, by using only the best ingredients and techniques.<br\/><\/p>",
+            "button_style": "btn--primary",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "1630835807244097c6-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "The Right Use for You",
+            "image": "shopify:\/\/shop_images\/temperature.png",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "The Right Use for You",
+            "text": "<p>The products have been tailored to provide you with a variety of benefits. With hot & cold therapy, our multipurpose items can help  relieve your pain and help you get through the week.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        },
+        "1630835807244097c6-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "Change Your Quality of Life",
+            "image": "shopify:\/\/shop_images\/mail_1.png",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Change Your Quality of Life",
+            "text": "<p>It's great that you have decided to take care of your body. We want to be part of this journey with you. In our monthly newsletter you will find new ways to enjoy My Heating Pad products, together with info about successfully dealing with pain. Start your change here - sign up for our newsletter for a better, pain-free life.<br\/><br\/><\/p>",
+            "button_style": "btn--primary",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "1630835807244097c6-0",
+        "1630835807244097c6-1",
+        "1630835807244097c6-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Why My HeatingPad?",
+        "subtitle": "My Heating Pad offers an effective natural pain-relief solution. It can help relieve neck & shoulder pain, backaches, joints pain and other discomforts.",
+        "section_style": "section-default",
+        "text_align": "text-center"
+      }
+    },
+    "1630836405c6b5c7be": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Group_103.png",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "About us",
+        "text": "<p>When you’re in pain, it can be challenging to get through your day. We know this all too well. <\/p><p>My Heating Pad has been providing natural products for pain relief since 1999. Our mission is to provide high quality products that are affordable and work when you need them most.<br\/><br\/>We have helped thousands of people find the right product, whether they are looking for temporary relief or chronic pain management.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Read more about us",
+        "button_link": "shopify:\/\/pages\/its-about-us"
+      }
+    },
+    "16308364172f0d167e": {
+      "type": "featured-row",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": false,
+        "show_on_mobile": false,
+        "image": "shopify:\/\/shop_images\/portrait-happy-doctors-with-clipboard_1_1.png",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Recommendations",
+        "text": "<p>Skip wires and plugs by opting for this microwavable pad instead. It’s filled with a combination of flaxseed and rice and heats up in just 90 seconds to give you instant relief. Small enough to fit onto knees or the crook of your neck, it’s double-sided with both a plush fleece and smooth cotton exterior to suit your preference. The budget-friendly pick, which is also great for cold therapy, has more than 700 perfect reviews from shoppers who say it’s durable, reliable, and easy to use.<\/p><p><\/p><p>-Doctor J.Choi -<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "1630836510ae979456": {
+      "type": "featured-blog",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Our Blog",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "blog": "natural-relief-blog",
+        "rows": "1",
+        "grid": "3",
+        "show_view_all": false,
+        "button_style": "btn-outline-primary"
+      }
+    }
+  },
+  "order": [
+    "1630834991eaf29f87",
+    "1630835843baa2f7af",
+    "16390370346c316d7a",
+    "16308363051c1aecd5",
+    "1638788589fa8c2adf",
+    "1630835807244097c6",
+    "1630836405c6b5c7be",
+    "16308364172f0d167e",
+    "1630836510ae979456"
+  ]
+}

@@ -1,1 +1,33 @@
-{"sections":{"main":{"type":"collection-template","settings":{}},"collection-image":{"type":"collection-image","settings":{}},"breadcrumbs":{"type":"breadcrumbs","settings":{}}},"order":["collection-image","breadcrumbs","main"]}
+{
+  "sections": {
+    "collection-image": {
+      "type": "collection-image",
+      "settings": {
+      }
+    },
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "collection_tags_enable": false,
+        "collection_tags_count": false,
+        "collection_multiple_tags_filtering_enable": false,
+        "collection_sort_enable": true,
+        "tag_selector": "button",
+        "collection_layout": "grid",
+        "rows": "4",
+        "desktop_grid": "4",
+        "mobile_grid": "2"
+      }
+    }
+  },
+  "order": [
+    "collection-image",
+    "breadcrumbs",
+    "main"
+  ]
+}
