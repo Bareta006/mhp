@@ -9,7 +9,8 @@
           {%- unless section.settings.subtitle == blank -%}
           <p class="text-lead">{{ section.settings.subtitle | escape }}</p>
           {%- endunless -%}
-          {%- render 'newsletter-form', source: section.settings.customer_tag -%}
+          {%comment%}{%- render 'newsletter-form', source: section.settings.customer_tag -%}{%endcomment%}
+        <div class="klaviyo-form-RrRhfT"></div>
         </div>
       </div>
     </div>
