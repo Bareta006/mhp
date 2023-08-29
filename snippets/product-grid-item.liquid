@@ -129,13 +129,6 @@
       -%}
     </div>
 
-    {%- liquid
-      unless emptyState
-        if product != blank
-          render "dbtfy-collection-addtocart" with product as product, sold_out: sold_out
-        endif
-      endunless
-    -%}
 
     <a href="{{ product_link }}" class="card-body grid-product__meta spacer-auto-xs text-center">
       {%- liquid
@@ -217,6 +210,13 @@
       </h4>
     </div>
     {% endif%}
+    {%- liquid
+      unless emptyState
+        if product != blank
+          render "dbtfy-collection-addtocart" with product as product, sold_out: sold_out
+        endif
+      endunless
+    -%}
     {%- if settings.grid_product_vendor -%}
       <div class="card-footer card-footer-xs text-center">
         <p class="vendor grid-product__vendor text-small text-italic">{{ vendor }}</p>
