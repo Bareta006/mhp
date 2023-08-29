@@ -639,6 +639,7 @@
 
                 {% render "dbtfy-back-in-stock", product: product, current_variant: current_variant %}
               {%- endif -%}
+              {%- render "product_info_accordion" -%}
             </div>
 
             {%- render "dbtfy-trust-badge", position: "product_page" -%}
