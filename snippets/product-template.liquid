@@ -118,7 +118,13 @@
             itemprop="name">
           {{ title }}
         </h1>
-
+        {% if product.metafields.extrainfo.best_for %}
+        <div class="bestFortitle">
+          <h4>
+            {{ product.metafields.extrainfo.best_for }}
+          </h4>
+        </div>
+        {% endif%}  
       {%- if section.settings.featured_product -%}
         {% unless emptyState %}
           </a>

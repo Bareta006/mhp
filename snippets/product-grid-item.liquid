@@ -210,7 +210,13 @@
         {%- endif -%}
       </p>
     </a>
-
+    {% if product.metafields.my_fields.best_for %}
+    <div class="bestFortitle">
+      <h4>
+        Best for {{ product.metafields.my_fields.best_for }}
+      </h4>
+    </div>
+    {% endif%}
     {%- if settings.grid_product_vendor -%}
       <div class="card-footer card-footer-xs text-center">
         <p class="vendor grid-product__vendor text-small text-italic">{{ vendor }}</p>
