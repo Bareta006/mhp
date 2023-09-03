@@ -1,8 +1,10 @@
 {
   "current": {
+    "sticky_announcement_bar": true,
     "icon": "material-icons-outlined",
     "grid_product_vendor": false,
     "grid_product_truncate": false,
+    "enable_product_accent_background": false,
     "tag_placement": "top-left",
     "collection_grid_card": false,
     "word_count": 31,
@@ -38,6 +40,7 @@
     "color_footer_input": "#fffdf2",
     "color_footer_errors": "#4caf92",
     "color_overlay": "#000000",
+    "newsletter_app": "",
     "review_app": "judge_me",
     "share_reddit": true,
     "dbtfy_cart_favicon": false,
