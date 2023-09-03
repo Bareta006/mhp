@@ -1,12 +1,12 @@
 {
   "sections": {
-    "collection-image": {
-      "type": "collection-image",
+    "breadcrumbs": {
+      "type": "breadcrumbs",
       "settings": {
       }
     },
-    "breadcrumbs": {
-      "type": "breadcrumbs",
+    "collection-image": {
+      "type": "collection-image",
       "settings": {
       }
     },
@@ -26,8 +26,8 @@
     }
   },
   "order": [
-    "collection-image",
     "breadcrumbs",
+    "collection-image",
     "main"
   ]
 }
