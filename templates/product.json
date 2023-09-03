@@ -16,7 +16,7 @@
         "enable_fading_effect": false,
         "enable_video_looping": true,
         "media_layout": "thumbnails",
-        "image_size": "medium",
+        "image_size": "small",
         "enable_arrows": true,
         "thumbnails_position": "bottom_center",
         "quantity_enabled": true,
