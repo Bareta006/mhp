@@ -43,6 +43,8 @@
     "newsletter_app": "",
     "review_app": "judge_me",
     "share_reddit": true,
+    "header_family": "poppins_n6",
+    "header_font_size_big": 60,
     "dbtfy_cart_favicon": false,
     "dbtfy_customizable_products": false,
     "dbtfy_inactive_tab_message": false,
