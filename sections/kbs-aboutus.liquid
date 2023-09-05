@@ -1,0 +1,411 @@
+<div class="about_us_page" id="section-{{ section.id }}" class="{% if section.settings.custom_class_section %} {{ section.settings.custom_class_section }} {% endif %} {% unless section.settings.show_on_desktop %} medium--hide large--hide{% endunless %} {% unless section.settings.show_on_mobile %} small--hide{% endunless %} {{ section.settings.section_style }}" data-section-id="{{ section.id }}" data-section-type="featured-row-section" {% if section.settings.custom_bg_for_section == true %} style="background-color: {{ section.settings.section_background_color }};" {% endif %}>
+    <div class="box">
+      <div class="header_about text-center">
+        <div class="wrapper">
+        <h1>It's About <span>Us</span></h1>
+        <p>We understand how difficult it can be to cope with daily life when you are in pain. We’re here to help. My Heating Pad is a family owned company that provides natural products for pain relief since 1999.</p>
+        </div>  
+      </div>
+      <div class="wrapper">
+        <div class="grid grid-spacer align-center first-section">
+          <div class="grid__item large--six-twelfths medium--six-twelfths small--one-whole featured-row-{{ section.settings.image_alignement_firstSection }}">
+            {%- if section.settings.image != blank -%}
+              <div class="media-wrapper" style="padding-top:{{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100}}%;">
+                <img class="media lazyload"
+                {%- render 'lazysizes', img: section.settings.image, img_type: 'responsive' -%}
+                alt="{{ section.settings.image.alt }}">
+              </div>
+            {%- else -%}
+              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+            {%- endif -%}
+          </div>
+  
+          <div class="grid__item large--six-twelfths medium--six-twelfths small--one-whole {{ section.settings.text_alignment }}">
+            {%- unless section.settings.title_firstSection == blank -%}
+            <div class="black_title_with_upper_headline">
+              <h4>{{ section.settings.title_upper_firstSection | escape }}</h4>
+              <img class="smile_product" src="https://cdn.shopify.com/s/files/1/0597/9504/6598/files/Path_93.png" alt="">
+              <h2 class="section-header__title">{{ section.settings.title_firstSection | escape }}</h2>
+              
+            </div>
+              {%- endunless -%}
+            {%- unless section.settings.text_secondSection == blank -%}
+              <div class="rte{% if section.settings.text_size == 'large' %} text-lead{% endif %}">{{ section.settings.text_firstSection }}</div>
+            {%- endunless -%}
+            {%- unless section.settings.button_label == blank -%}
+              <a href="{{ section.settings.button_link }}" class="btn {{ section.settings.button_style }}">
+                {{ section.settings.button_label | escape }}
+              </a>
+            {%- endunless -%}
+          </div>
+        </div>
+        
+        <div class="grid grid-spacer align-center center_section_about">
+          <div class="grid__item large--seven-twelfths medium--seven-twelfths small--one-whole featured-row-{{ section.settings.image_alignement_secondSection }}">
+            {%- if section.settings.image_secondSection != blank -%}
+              <div class="media-wrapper" style="padding-top:{{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100}}%;">
+                <img class="media lazyload"
+                {%- render 'lazysizes', img: section.settings.image_secondSection, img_type: 'responsive' -%}
+                alt="{{ section.settings.image_secondSection.alt }}" />
+              </div>
+            {%- else -%}
+              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+            {%- endif -%}
+          </div>
+  
+          <div class="grid__item large--five-twelfths medium--five-twelfths small--one-whole {{ section.settings.text_alignment }}">
+            {%- unless section.settings.title_secondSection == blank -%}
+            <div class="black_title_with_upper_headline">
+              <h4>{{ section.settings.title_upper_secondSection | escape }}</h4>
+              <img class="smile_product" src="https://cdn.shopify.com/s/files/1/0597/9504/6598/files/Path_93.png" alt="" />
+              <h2 class="section-header__title">{{ section.settings.title_secondSection | escape }}</h2>
+            </div>
+            {%- endunless -%}
+            {%- unless section.settings.text_secondSection == blank -%}
+              <div class="rte{% if section.settings.text_size == 'large' %} text-lead{% endif %}">{{ section.settings.text_secondSection }}</div>
+            {%- endunless -%}
+            {%- unless section.settings.button_label == blank -%}
+              <a href="{{ section.settings.button_link }}" class="btn {{ section.settings.button_style }}">
+                {{ section.settings.button_label | escape }}
+              </a>
+            {%- endunless -%}
+          </div>
+        </div>
+  
+        <div class="grid grid-spacer align-center">
+          <div class="grid__item large--five-twelfths medium--five-twelfths small--one-whole featured-row-{{ section.settings.image_alignement_thirdSection }}">
+            {%- if section.settings.image_thirdSection != blank -%}
+              <div class=" third_section_img_wrapper media-wrapper" style="padding-top:{{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100}}%;">
+                <img class="media lazyload"
+                {%- render 'lazysizes', img: section.settings.image_thirdSection, img_type: 'responsive' -%}
+                alt="{{ section.settings.image.alt }}">
+              </div>
+            {%- else -%}
+              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+            {%- endif -%}
+          </div>
+  
+          <div class="grid__item large--seven-twelfths medium--seven-twelfths small--one-whole {{ section.settings.text_alignment }}">
+            {%- unless section.settings.title_thirdSection == blank -%}
+            <div class="black_title_with_upper_headline">
+              <h4>{{ section.settings.title_upper_thirdSection | escape }}</h4>
+              <img class="smile_product" src="https://cdn.shopify.com/s/files/1/0597/9504/6598/files/Path_93.png" alt="">
+              <h2 class="section-header__title">{{ section.settings.title_thirdSection | escape }}</h2>
+            </div> 
+            {%- endunless -%}
+            {%- unless section.settings.text_thirdSection == blank -%}
+              <div class="rte{% if section.settings.text_size == 'large' %} text-lead{% endif %}">{{ section.settings.text_thirdSection }}</div>
+            {%- endunless -%}
+            {%- unless section.settings.button_label == blank -%}
+              <a href="{{ section.settings.button_link }}" class="btn {{ section.settings.button_style }}">
+                {{ section.settings.button_label | escape }}
+              </a>
+            {%- endunless -%}
+          </div>
+        </div>
+        <div class="grid-spacer align-center">
+          <div class="pre_footer_about text-center grid__item large--one-whole medium--one-whole small--one-whole">
+            <h2>You won’t find a better source of natural pain relief!</h2>
+            <p>We are taking pride of being the leading webstore for natural pain relivers. sign-up now to get the latest updates, sales and benefits</p>
+          </div>
+        </div>  
+      </div>
+  
+      <div class=" grid-spacer align-center">
+        <div class="need_help grid__item large--one-whole medium--one-whole">
+          {%- if section.settings.title_need_help != blank  -%}
+          <h2>{{ section.settings.title_need_help }}</h2>
+       {% endif %}
+          {%- if section.settings.text_need_help != blank  -%}
+            <p class="text_need_help">
+              {{ section.settings.text_need_help }} 
+            </p>
+            <div class="supportOptions">
+              <a href="#"> 
+              <img class="lazyload" {%- render 'lazysizes', img: section.settings.email_icon , img_type: 'responsive' -%}/>
+              <p class="secondary-text small_font">BY CHAT</p>
+            </a>
+             <div><strong>or</strong></div>
+              <a href="mailto:sales@myheatingpad.us">
+              <img class="lazyload" {%- render 'lazysizes', img: section.settings.chat_icon , img_type: 'responsive' -%}/>
+              <p class="secondary-text small_font">
+                BY MAIL
+              </p>
+            </a>
+            </div>
+         {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  {% schema %}
+    {
+      "name": "About Us Page Settings",
+      "class": "aboutus-section",
+      "settings": [
+        {
+          "type": "checkbox",
+          "id": "show_on_desktop",
+          "label": "Show on desktop",
+          "default": true
+        },
+         {
+          "type": "checkbox",
+          "id": "show_on_mobile",
+          "label": "Show on mobile",
+          "default": true
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image First Section"
+        },
+        {
+          "type": "richtext",
+          "id": "text_firstSection",
+          "label": "Text First Section",
+          "default": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+        },
+        {
+          "type": "text",
+          "id": "title_upper_firstSection",
+          "label": "upper heading first section",
+          "default": "upper headline"
+        },
+        {
+          "type": "text",
+          "id": "title_firstSection",
+          "label": "Heading first section",
+          "default": "Image with text"
+        },
+        {
+          "type": "select",
+          "id": "image_alignement_firstSection",
+          "label": "Image alignment",
+          "default": "left",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "image_picker",
+          "id": "image_secondSection",
+          "label": "Image Second Section"
+        },
+        {
+          "type": "text",
+          "id": "title_upper_secondSection",
+          "label": "upper heading second section",
+          "default": "upper headline"
+        },
+        {
+          "type": "text",
+          "id": "title_secondSection",
+          "label": "Heading second section",
+          "default": "Image with text"
+        },
+        {
+          "type": "select",
+          "id": "image_alignement_secondSection",
+          "label": "Image alignment",
+          "default": "left",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "title_upper_thirdSection",
+          "label": "upper heading third section",
+          "default": "upper headline"
+        },
+        {
+          "type": "richtext",
+          "id": "text_secondSection",
+          "label": "Text second Section",
+          "default": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_thirdSection",
+          "label": "Image Third Section"
+        },
+        {
+          "type": "text",
+          "id": "title_thirdSection",
+          "label": "Heading third section",
+          "default": "Image with text"
+        },
+        {
+          "type": "select",
+          "id": "image_alignement_thirdSection",
+          "label": "Image alignment",
+          "default": "left",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "richtext",
+          "id": "text_thirdSection",
+          "label": "Text Third Section",
+          "default": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+        },
+        {
+          "type": "checkbox",
+          "id": "custom_bg_for_section",
+          "label": "custom background for section",
+          "default": false
+        },
+        {
+          "type": "color",
+          "id": "section_background_color",
+          "label": "Background color for section",
+          "default": "#ffffff"
+       },
+        {
+          "type": "select",
+          "id": "section_style",
+          "label": "Section style",
+          "default": "section-blank",
+          "options": [
+            {
+              "value": "section-blank",
+              "label": "Blank background"
+            },
+                {
+              "value": "section-default",
+              "label": "Accent background"
+            },
+            {
+              "value": "section-border",
+              "label": "Border top"
+            }
+          ]
+        },
+          {
+          "type": "select",
+          "id": "text_size",
+          "label": "Text size",
+          "default": "large",
+          "options": [
+            {
+              "value": "medium",
+              "label": "Medium"
+            },
+            {
+              "value": "large",
+              "label": "Large"
+            }
+          ]
+        },
+          {
+          "type": "select",
+          "id": "text_alignment",
+          "label": "Text alignment",
+          "default": "text-center",
+          "options": [
+            {
+              "value": "",
+              "label": "Left"
+            },
+                 {
+              "value": "text-center",
+              "label": "Center"
+            },
+            {
+              "value": "text-right",
+              "label": "Right"
+            }
+          ]
+        },
+          {
+          "type": "select",
+          "id": "button_style",
+          "label": "Button style",
+          "default": "btn--primary",
+          "options": [
+            {
+              "value": "",
+              "label": "Default"
+            },
+            {
+              "value": "btn--primary",
+              "label": "Full"
+            },
+            {
+              "value": "btn-outline-primary",
+              "label": "Outline"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "button_label",
+          "label": "Button label"
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": "Button link"
+        },
+        {
+          "type": "text",
+          "id": "custom_class_section",
+          "label": "custom class for section"
+  
+        },
+        {
+          "type": "text",
+          "id": "title_need_help",
+          "label": "Need Help Section title",
+          "default": "upper headline"
+        },
+        {
+          "type": "richtext",
+          "id": "text_need_help",
+          "label": "Text First Section",
+          "default": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+        },
+        {
+          "type": "image_picker",
+          "id": "email_icon",
+          "label": "Email Us Icon"
+        },
+        {
+          "type": "image_picker",
+          "id": "chat_icon",
+          "label": "Chat with us icon"
+        }
+      ],
+      "presets": [
+        {
+          "name": "Image with text",
+          "category": "Image and text"
+        }
+      ]
+    }
+  {% endschema %}
+  
