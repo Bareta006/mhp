@@ -25,7 +25,7 @@
     "color_default": "#f6f6f6",
     "color_primary": "#4caf92",
     "color_secondary": "#4caf92",
-    "color_input": "#fffdf2",
+    "color_input": "#f8df77",
     "color_drawer_bg": "#ffffff",
     "color_drawer_default": "#fbfbfb",
     "color_drawer_border": "#000000",
@@ -41,7 +41,7 @@
     "color_footer_primary": "#4caf92",
     "color_footer_button_text": "#000000",
     "color_footer_secondary": "#4caf92",
-    "color_footer_input": "#fffdf2",
+    "color_footer_input": "#4caf92",
     "color_footer_errors": "#4caf92",
     "color_overlay": "#000000",
     "newsletter_app": "",
@@ -1125,6 +1125,12 @@
       },
       "163260334364673a28": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
