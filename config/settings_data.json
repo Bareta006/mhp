@@ -1097,8 +1097,10 @@
           "button_label": "",
           "button_link": "",
           "custom_class_section": "",
-          "title_need_help": "upper headline",
-          "text_need_help": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          "title_need_help": "Need Help?",
+          "text_need_help": "<p>We have a customer service team that is available 24\/7 to help you with any concerns or questions<br\/>you may have about our products. You can contact us by chat or you can send us an email.<\/p>",
+          "email_icon": "shopify:\/\/shop_images\/email.png",
+          "chat_icon": "shopify:\/\/shop_images\/chat.png"
         }
       }
     },
