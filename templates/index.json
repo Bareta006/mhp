@@ -101,10 +101,10 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "Heating Pads Sets 50% off Sale",
-        "subtitle": "Hurry and get our special deal for 3 best selling heating pads.",
+        "title": "Exclusive Offer - 50% off Microwave Heating Pads Sets",
+        "subtitle": "Don't miss out on our special offer for three top selling microwave heating pads! Available only here!",
         "section_style": "section-default",
-        "home_featured_products": "heating-pad-sets",
+        "home_featured_products": "home-page-microwave-heating-pads-sets",
         "rows": "1",
         "desktop_grid": "2",
         "mobile_grid": "1",
