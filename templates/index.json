@@ -96,29 +96,6 @@
         "autoplayspeed": 5
       }
     },
-    "16390370346c316d7a": {
-      "type": "featured-products",
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "title": "Exclusive Offer - 50% off Microwave Heating Pads Sets",
-        "subtitle": "Don't miss out on our special offer for three top selling microwave heating pads! Available only here!",
-        "section_style": "section-default",
-        "home_featured_products": "home-page-microwave-heating-pads-sets",
-        "rows": "1",
-        "desktop_grid": "2",
-        "mobile_grid": "1",
-        "show_view_all": false,
-        "button_label": "View all",
-        "button_link": "",
-        "button_style": "btn-outline-primary",
-        "slider_related_products": true,
-        "arrows": true,
-        "dots": true,
-        "autoplay": false,
-        "autoplayspeed": 5
-      }
-    },
     "4da0fb00-b472-4c81-984c-518974b39ad6": {
       "type": "featured-products",
       "settings": {
@@ -135,6 +112,29 @@
         "button_label": "View all",
         "button_link": "shopify:\/\/collections\/all",
         "button_style": "btn--primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16390370346c316d7a": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Exclusive Offer - 50% off Microwave Heating Pads Sets",
+        "subtitle": "Don't miss out on our special offer for three top selling microwave heating pads! Available only here!",
+        "section_style": "section-default",
+        "home_featured_products": "home-page-microwave-heating-pads-sets",
+        "rows": "1",
+        "desktop_grid": "2",
+        "mobile_grid": "1",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
         "slider_related_products": true,
         "arrows": true,
         "dots": true,
@@ -329,8 +329,8 @@
   "order": [
     "1630834991eaf29f87",
     "1630835843baa2f7af",
-    "16390370346c316d7a",
     "4da0fb00-b472-4c81-984c-518974b39ad6",
+    "16390370346c316d7a",
     "16308363051c1aecd5",
     "1638788589fa8c2adf",
     "1630835807244097c6",
