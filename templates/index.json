@@ -119,6 +119,29 @@
         "autoplayspeed": 5
       }
     },
+    "4da0fb00-b472-4c81-984c-518974b39ad6": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Effective Gel Ice Packs",
+        "subtitle": "Experience superior cold therapy in our gel ice pack collection, designed for ultimate comfort and hands-free application, addressing all your aches and pains effectively.",
+        "section_style": "section-default",
+        "home_featured_products": "gel-ice-packs",
+        "rows": "3",
+        "desktop_grid": "4",
+        "mobile_grid": "1",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_style": "btn--primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
     "16308363051c1aecd5": {
       "type": "gallery",
       "blocks": {
@@ -307,6 +330,7 @@
     "1630834991eaf29f87",
     "1630835843baa2f7af",
     "16390370346c316d7a",
+    "4da0fb00-b472-4c81-984c-518974b39ad6",
     "16308363051c1aecd5",
     "1638788589fa8c2adf",
     "1630835807244097c6",
