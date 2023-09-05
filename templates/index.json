@@ -78,10 +78,10 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "title": "50% off 2nd Item Sale",
-        "subtitle": "Limited Sale - order now our effective natural pain-relievers, tailored to suit treatment for all types of pains and aches.",
+        "title": "Natural Microwave Heating Pads",
+        "subtitle": "Highly effective, natural pain relief solutions, customized to address a wide range of aches and pains.",
         "section_style": "section-default",
-        "home_featured_products": "single-heating-pad",
+        "home_featured_products": "home-page-microwave-heating-pads",
         "rows": "3",
         "desktop_grid": "4",
         "mobile_grid": "1",
