@@ -332,21 +332,21 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Summer Sale<\/strong> - 50% Off 2nd item<\/p>"
+              "announcement_text": "<p><strong>Summer Sale<\/strong> - get 50% Off 2nd item.<\/p>"
             }
           },
           "b13401fd-7bf8-45f9-9c7c-b1e68454e683": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>50% Off<\/strong> Our heating pads sets<\/p>"
+              "announcement_text": "<p><strong>+6 month Extended Warranty<\/strong> with any purchase.<\/p>"
             }
           },
           "f610d924-1c1c-4a97-83d8-9e11044d785e": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p>Free shipping on orders over $75. Terms apply<\/p>"
+              "announcement_text": "<p><strong>Free US & Canada shipping<\/strong> on orders over $75. <a href=\"\/pages\/shipping-policy\" title=\"Shipping Policy\">Terms apply<\/a><\/p>"
             }
           }
         },
