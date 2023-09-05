@@ -306,7 +306,7 @@
         "type": "dbtfy-cart-goal",
         "settings": {
           "dbtfy_cart_goal_before_text": "You're",
-          "dbtfy_cart_goal_amount": "50",
+          "dbtfy_cart_goal_amount": "75",
           "dbtfy_cart_goal_after_text": "away from FREE shipping!",
           "dbtfy_cart_goal_reached_text": "You are eligible for FREE shipping!",
           "dbtfy_cart_goal_icons": "local_shipping"
