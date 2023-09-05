@@ -1067,6 +1067,39 @@
           "dbtfy_product_tab_text_color": "text",
           "dbtfy_product_tab_background_color": "accent_background"
         }
+      },
+      "kbs-aboutus": {
+        "type": "kbs-aboutus",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "image": "shopify:\/\/shop_images\/portrait-happy-beautiful-happy-youngwoman-relaxing-park-joyful-female-model-breathing-fresh-air-outdoors-enjoying-smell-flower-spring-summer-garden-vintage-tone.png",
+          "text_firstSection": "<p>We started MY HEATING PAD because we wanted to find an alternative way to treat our own aches and pains without prescription drugs or expensive medical procedures.<\/p>",
+          "title_upper_firstSection": "It's about",
+          "title_firstSection": "THE REASON",
+          "image_alignement_firstSection": "right",
+          "image_secondSection": "shopify:\/\/shop_images\/Component_7_1.png",
+          "title_upper_secondSection": "It's about",
+          "title_secondSection": "THE QUALITY",
+          "image_alignement_secondSection": "left",
+          "title_upper_thirdSection": "It's about",
+          "text_secondSection": "<p>We are proudly based in the USA, and our microwaveable heating pads are manufactured in our factory in California, so we can offer the best quality and control every step of the process, making sure you receive nothing but the best. Our gel ice packs are made abroad with an emphasis on the same quality standards.<\/p>",
+          "image_thirdSection": "shopify:\/\/shop_images\/Component_6_1.png",
+          "title_thirdSection": "THE MISSION",
+          "image_alignement_thirdSection": "right",
+          "text_thirdSection": "<p>Our mission is to provide quality products that will ease our customers' pain and soothe their discomfort easily without side effects or bodily harm. Our products will come in handy whenever you experience discomfort and pain or want to promote the recovery process.<\/p>",
+          "custom_bg_for_section": false,
+          "section_background_color": "#ffffff",
+          "section_style": "section-blank",
+          "text_size": "large",
+          "text_alignment": "text-center",
+          "button_style": "btn--primary",
+          "button_label": "",
+          "button_link": "",
+          "custom_class_section": "",
+          "title_need_help": "upper headline",
+          "text_need_help": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+        }
       }
     },
     "content_for_index": [
