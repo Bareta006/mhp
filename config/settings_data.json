@@ -93,6 +93,7 @@
     "dbtfy_mega_menu": false,
     "dbtfy_order_tracking": false,
     "dbtfy_page_transition": false,
+    "dbtfy_sticky_header": true,
     "dbtfy_shop_protect": false,
     "dbtfy_addtocart_animation_type": "tada",
     "dbtfy_newsletter_floating_bar": false,
@@ -1079,17 +1080,17 @@
       "1630836510ae979456"
     ],
     "blocks": {
-      "163260334364673a28": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "1632603343a803235a": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": true,
         "settings": {
           "position": "right"
+        }
+      },
+      "163260334364673a28": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
         }
       }
     }
