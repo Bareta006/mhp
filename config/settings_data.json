@@ -62,6 +62,7 @@
     "dbtfy_wish_list": false,
     "dbtfy_collection_filters": false,
     "dbtfy_custom_currencies": false,
+    "dbtfy_delivery_date": false,
     "dbtfy_infinite_scroll": false,
     "dbtfy_linked_options": false,
     "dbtfy_menu_bar": false,
