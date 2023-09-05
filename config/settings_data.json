@@ -9,6 +9,8 @@
     "hide_collection_title": false,
     "collection_grid_card": false,
     "word_count": 31,
+    "show_locale_selector": false,
+    "show_currency_selector": false,
     "newsletter_name": false,
     "border_radius": 30,
     "button_padding_y": 7,
