@@ -10393,6 +10393,9 @@ div.supportOptions {
 .supportOptions .secondary-text.small_font{
     color:#fff;
 }
+body#sign-warranty .klaviyo-form >div >form div[data-testid='form-row']:nth-of-type(7) label{
+    display:inline-flex;
+    }
   @media all and (max-width:480px){
     .product-single #topPagebanner .imageContainer{
         display:none;
@@ -10400,6 +10403,12 @@ div.supportOptions {
       .product-single #topPagebanner .imageContainer {
         background-image: url(/cdn/shop/files/Banner_Produt_Page_M_copy_2.jpg?v=1667811860);
         height: 60px;
+      }
+      body#sign-warranty .klaviyo-form >div >form {
+        padding: 40px 0px;
+      }
+      body#sign-warranty .klaviyo-form >div >form div[data-testid='form-row']:nth-of-type(5){
+        display:block;
       }
   }
 {%- if settings.custom_style != blank -%}
