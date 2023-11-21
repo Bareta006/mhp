@@ -35,8 +35,8 @@
           "settings": {
             "title": "Sale Slide #2",
             "overlay": false,
-            "image": "shopify:\/\/shop_images\/Summer_Sale_2_c6c308fd-b892-4527-9c87-3c2ce28b854f.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Summer_Sale_2_mobile_copy.jpg",
+            "image": "shopify:\/\/shop_images\/Fall_Sale_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Fall_Sale_2_mobile_copy.jpg",
             "image_position": "center center",
             "image_position_mobile": "center center",
             "slide_link": "",
