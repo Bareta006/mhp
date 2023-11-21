@@ -8,8 +8,8 @@
           "settings": {
             "title": "Sales Slide #1",
             "overlay": false,
-            "image": "shopify:\/\/shop_images\/Summer_Sale_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Summer_Sale_1_mobile.jpg",
+            "image": "shopify:\/\/shop_images\/Fall_Sale_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Fall_Sale_1_mobile.jpg",
             "image_position": "top center",
             "image_position_mobile": "top center",
             "slide_link": "",
