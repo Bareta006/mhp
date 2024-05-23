@@ -1,1 +1,31 @@
-{"sections":{"main":{"type":"page","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    },
+    "171649041109f9e3b4": {
+      "type": "apps",
+      "blocks": {
+        "my_product_cares_registration_form_jJJU7q": {
+          "type": "shopify:\/\/apps\/my-product-cares\/blocks\/registration-form\/fd762697-cd8b-4acd-bd03-03c62edf58c9",
+          "settings": {
+            "slug": "product-registration",
+            "mode": "normal",
+            "openRegisteredEntities": false
+          }
+        }
+      },
+      "block_order": [
+        "my_product_cares_registration_form_jJJU7q"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "171649041109f9e3b4"
+  ]
+}
