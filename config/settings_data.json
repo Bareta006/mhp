@@ -334,7 +334,7 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Winter Sale<\/strong> - get 50% Off 2nd item.<\/p>"
+              "announcement_text": "<p><strong>ALWAYS FREE SHIPPING <\/strong>(US ONLY)<\/p>"
             }
           },
           "b13401fd-7bf8-45f9-9c7c-b1e68454e683": {
@@ -346,6 +346,7 @@
           },
           "f610d924-1c1c-4a97-83d8-9e11044d785e": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "title": "",
               "announcement_text": "<p><strong>Free US & Canada shipping<\/strong> on orders over $75. <a href=\"\/pages\/shipping-policy\" title=\"Shipping Policy\">Terms apply<\/a><\/p>"
@@ -1127,12 +1128,6 @@
       },
       "163260334364673a28": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
