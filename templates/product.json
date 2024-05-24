@@ -85,6 +85,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "show_related_products": false,
         "related_collection": true,
