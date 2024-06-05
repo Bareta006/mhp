@@ -60,7 +60,7 @@
     "dbtfy_inactive_tab_message": false,
     "dbtfy_inventory_quantity": false,
     "dbtfy_product_bullet_points": false,
-    "dbtfy_back_in_stock": true,
+    "dbtfy_back_in_stock": false,
     "dbtfy_instagram_feed": false,
     "dbtfy_newsletter_popup": false,
     "dbtfy_order_feedback": false,
