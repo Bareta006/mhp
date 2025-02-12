@@ -1,15 +1,24 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "page",
-      "settings": {
-      }
+      "disabled": true,
+      "settings": {}
     },
     "171649041109f9e3b4": {
       "type": "apps",
       "blocks": {
         "my_product_cares_registration_form_jJJU7q": {
-          "type": "shopify:\/\/apps\/my-product-cares\/blocks\/registration-form\/fd762697-cd8b-4acd-bd03-03c62edf58c9",
+          "type": "shopify://apps/my-product-cares/blocks/registration-form/fd762697-cd8b-4acd-bd03-03c62edf58c9",
           "settings": {
             "slug": "product-registration",
             "mode": "normal",
@@ -20,8 +29,7 @@
       "block_order": [
         "my_product_cares_registration_form_jJJU7q"
       ],
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
