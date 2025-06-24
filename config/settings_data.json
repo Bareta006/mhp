@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "sticky_announcement_bar": true,
@@ -47,12 +56,12 @@
     "color_footer_input": "#4caf92",
     "color_footer_errors": "#4caf92",
     "color_overlay": "#000000",
-    "favicon": "shopify:\/\/shop_images\/MHP-Logo-Google-merchant-round-03-768x768.png",
+    "favicon": "shopify://shop_images/MHP-Logo-Google-merchant-round-03-768x768.png",
     "newsletter_app": "klaviyo",
     "review_app": "judge_me",
     "share_reddit": true,
-    "social_facebook_link": "https:\/\/www.facebook.com\/myheatingpad.us",
-    "social_instagram_link": "https:\/\/www.instagram.com\/myheatingpad.us\/",
+    "social_facebook_link": "https://www.facebook.com/myheatingpad.us",
+    "social_instagram_link": "https://www.instagram.com/myheatingpad.us/",
     "header_family": "poppins_n6",
     "header_font_size_big": 60,
     "dbtfy_cart_favicon": false,
@@ -117,7 +126,7 @@
     "dbtfy_sticky_addtocart_mobile": false,
     "dbtfy_trust_badge_text_small": false,
     "dbtfy_trust_badge_position_in_cart_drawer": "under_checkout_button",
-    "dbtfy_trust_badge_image": "shopify:\/\/shop_images\/New_Project_3_1.jpg",
+    "dbtfy_trust_badge_image": "shopify://shop_images/New_Project_3_1.jpg",
     "dbtfy_trust_badge_text_position": "above",
     "hero_header": false,
     "search_product": false,
@@ -128,9 +137,9 @@
     "dbtfy_sales_countdown": false,
     "dbtfy_sales_pop": false,
     "dbtfy_sold_items": false,
-    "dbtfy_floating_bar_text": "<u>Sign up to Get<\/u><span class=\"newsTopdiscount\"> 10% <\/span><span class=\"newsTopoffword\"> off!<\/span>",
+    "dbtfy_floating_bar_text": "<u>Sign up to Get</u><span class=\"newsTopdiscount\"> 10% </span><span class=\"newsTopoffword\"> off!</span>",
     "dbtfy_newsletter_popup_title": "10% OFF",
-    "dbtfy_newsletter_popup_text": "<p>YOUR FIRST PURCHASE<\/p>",
+    "dbtfy_newsletter_popup_text": "<p>YOUR FIRST PURCHASE</p>",
     "dbtfy_newsletter_popup_close": "No thanks, I would like to pay more",
     "sections": {
       "dbtfy-upsell-popup": {
@@ -141,7 +150,7 @@
             "settings": {
               "heading": "",
               "title_1": "Special Offer!",
-              "text_1": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_1": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_1": "",
               "product_trigger_1": "",
               "product_offer_1": "",
@@ -151,7 +160,7 @@
               "discount_amount_1": "",
               "discount_type_1": "%",
               "title_2": "Special Offer!",
-              "text_2": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_2": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_2": "",
               "product_trigger_2": "",
               "product_offer_2": "",
@@ -161,7 +170,7 @@
               "discount_amount_2": "",
               "discount_type_2": "%",
               "title_3": "Special Offer!",
-              "text_3": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_3": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_3": "",
               "product_trigger_3": "",
               "product_offer_3": "",
@@ -171,7 +180,7 @@
               "discount_amount_3": "",
               "discount_type_3": "%",
               "title_4": "Special Offer!",
-              "text_4": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_4": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_4": "",
               "product_trigger_4": "",
               "product_offer_4": "",
@@ -181,7 +190,7 @@
               "discount_amount_4": "",
               "discount_type_4": "%",
               "title_5": "Special Offer!",
-              "text_5": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_5": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_5": "",
               "product_trigger_5": "",
               "product_offer_5": "",
@@ -191,7 +200,7 @@
               "discount_amount_5": "",
               "discount_type_5": "%",
               "title_6": "Special Offer!",
-              "text_6": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_6": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_6": "",
               "product_trigger_6": "",
               "product_offer_6": "",
@@ -201,7 +210,7 @@
               "discount_amount_6": "",
               "discount_type_6": "%",
               "title_7": "Special Offer!",
-              "text_7": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_7": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_7": "",
               "product_trigger_7": "",
               "product_offer_7": "",
@@ -211,7 +220,7 @@
               "discount_amount_7": "",
               "discount_type_7": "%",
               "title_8": "Special Offer!",
-              "text_8": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_8": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_8": "",
               "product_trigger_8": "",
               "product_offer_8": "",
@@ -221,7 +230,7 @@
               "discount_amount_8": "",
               "discount_type_8": "%",
               "title_9": "Special Offer!",
-              "text_9": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_9": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_9": "",
               "product_trigger_9": "",
               "product_offer_9": "",
@@ -231,7 +240,7 @@
               "discount_amount_9": "",
               "discount_type_9": "%",
               "title_10": "Special Offer!",
-              "text_10": "<p>Add this product to your cart and get 20% OFF your entire order.<\/p>",
+              "text_10": "<p>Add this product to your cart and get 20% OFF your entire order.</p>",
               "collection_trigger_10": "",
               "product_trigger_10": "",
               "product_offer_10": "",
@@ -274,8 +283,7 @@
       },
       "dbtfy-color-swatches": {
         "type": "dbtfy-color-swatches",
-        "settings": {
-        }
+        "settings": {}
       },
       "dbtfy-bullet-points": {
         "type": "dbtfy-bullet-points",
@@ -287,8 +295,7 @@
       },
       "dbtfy-customizable-products": {
         "type": "dbtfy-customizable-products",
-        "settings": {
-        }
+        "settings": {}
       },
       "dbtfy-delivery-time": {
         "type": "dbtfy-delivery-time",
@@ -340,14 +347,14 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>ALWAYS FREE SHIPPING <\/strong>(US ONLY)<\/p>"
+              "announcement_text": "<p><strong>ALWAYS FREE SHIPPING </strong>(US ONLY)</p>"
             }
           },
           "b13401fd-7bf8-45f9-9c7c-b1e68454e683": {
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>+6 month Extended Warranty<\/strong> with any purchase.<\/p>"
+              "announcement_text": "<p><strong>+6 month Extended Warranty</strong> with any purchase.</p>"
             }
           },
           "f610d924-1c1c-4a97-83d8-9e11044d785e": {
@@ -355,7 +362,7 @@
             "disabled": true,
             "settings": {
               "title": "",
-              "announcement_text": "<p><strong>Free US & Canada shipping<\/strong> on orders over $75. <a href=\"\/pages\/shipping-policy\" title=\"Shipping Policy\">Terms apply<\/a><\/p>"
+              "announcement_text": "<p><strong>Free US & Canada shipping</strong> on orders over $75. <a href=\"/pages/shipping-policy\" title=\"Shipping Policy\">Terms apply</a></p>"
             }
           }
         },
@@ -380,9 +387,9 @@
           "main_menu_link_list": "main-menu",
           "navigation_type": "center",
           "logo_link": true,
-          "default_logo": "shopify:\/\/shop_images\/logo.png",
-          "inverted_logo": "shopify:\/\/shop_images\/logo_copy.png",
-          "mobile_logo": "shopify:\/\/shop_images\/logo.png",
+          "default_logo": "shopify://shop_images/logo.png",
+          "inverted_logo": "shopify://shop_images/logo_copy.png",
+          "mobile_logo": "shopify://shop_images/logo.png",
           "default_logo_svg": "",
           "inverted_logo_svg": "",
           "mobile_logo_svg": "",
@@ -413,7 +420,7 @@
               "title": "Our Guarantee",
               "guarantee_icon": "loyalty",
               "heading_text": "Our Guarantee",
-              "text": "<p>Share your guarantees with your customers.<\/p>",
+              "text": "<p>Share your guarantees with your customers.</p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -427,7 +434,7 @@
               "title": "Our Guarantee",
               "guarantee_icon": "loyalty",
               "heading_text": "Our Guarantee",
-              "text": "<p>Share your guarantees with your customers.<\/p>",
+              "text": "<p>Share your guarantees with your customers.</p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -441,7 +448,7 @@
               "title": "Our Guarantee",
               "guarantee_icon": "loyalty",
               "heading_text": "Our Guarantee",
-              "text": "<p>Share your guarantees with your customers.<\/p>",
+              "text": "<p>Share your guarantees with your customers.</p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -469,13 +476,13 @@
             "settings": {
               "title": "",
               "column_width": 2,
-              "image": "shopify:\/\/shop_images\/logo_copy.png",
+              "image": "shopify://shop_images/logo_copy.png",
               "svg": "",
               "img_url": "",
               "logo_width": 150,
               "heading_text": "About Us",
               "subtitle": "",
-              "text": "<p>A family owned company dedicated to providing<br\/>natural pain relief products since 1999.<\/p>",
+              "text": "<p>A family owned company dedicated to providing<br/>natural pain relief products since 1999.</p>",
               "email": true,
               "phone": false,
               "show_social_media": false
@@ -523,13 +530,13 @@
             "settings": {
               "title": "Warm Winter Sale",
               "overlay": false,
-              "image": "shopify:\/\/shop_images\/Fall_Sale_1.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/Fall_Sale_1_mobile.jpg",
+              "image": "shopify://shop_images/Fall_Sale_1.jpg",
+              "image_mobile": "shopify://shop_images/Fall_Sale_1_mobile.jpg",
               "image_position": "top center",
               "image_position_mobile": "bottom center",
               "slide_link": "",
               "video": "",
-              "text": "<p><strong>2nd Item<\/strong><\/p><p>* Free shipping on orders  over $75<br\/>* auto cart discount - no coupon needed<\/p>",
+              "text": "<p><strong>2nd Item</strong></p><p>* Free shipping on orders  over $75<br/>* auto cart discount - no coupon needed</p>",
               "text_position": "align-center",
               "text_position_mobile": "align-top",
               "text_alignment": "text-center",
@@ -537,7 +544,7 @@
               "enable_custom_fonts": false,
               "slideshow_family": "oswald_n5",
               "button_label": "Shop Now",
-              "button_link": "shopify:\/\/collections\/single-heating-pad",
+              "button_link": "shopify://collections/single-heating-pad",
               "button_style": "btn--primary",
               "button_label_2": "",
               "button_link_2": "",
@@ -549,13 +556,13 @@
             "settings": {
               "title": "Warm Winter Sale",
               "overlay": false,
-              "image": "shopify:\/\/shop_images\/Fall_Sale_2.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/Fall_Sale_2_mobile_copy.jpg",
+              "image": "shopify://shop_images/Fall_Sale_2.jpg",
+              "image_mobile": "shopify://shop_images/Fall_Sale_2_mobile_copy.jpg",
               "image_position": "center center",
               "image_position_mobile": "bottom center",
               "slide_link": "",
               "video": "",
-              "text": "<p><strong>Our heating pads sets<\/strong><\/p><p>Crazy Deal for 3 Heating Pads<\/p><p>* Free shipping on orders  over $75<\/p>",
+              "text": "<p><strong>Our heating pads sets</strong></p><p>Crazy Deal for 3 Heating Pads</p><p>* Free shipping on orders  over $75</p>",
               "text_position": "align-center",
               "text_position_mobile": "align-top",
               "text_alignment": "text-center",
@@ -563,7 +570,7 @@
               "enable_custom_fonts": false,
               "slideshow_family": "poppins_n4",
               "button_label": "Shop now",
-              "button_link": "shopify:\/\/collections\/heating-pad-sets",
+              "button_link": "shopify://collections/heating-pad-sets",
               "button_style": "btn--primary",
               "button_label_2": "",
               "button_link_2": "",
@@ -593,36 +600,36 @@
             "type": "text_block",
             "settings": {
               "title": "Only the Best - since 1999",
-              "image": "shopify:\/\/shop_images\/badge.png",
+              "image": "shopify://shop_images/badge.png",
               "icon": "",
-              "text": "<p>Our line of products are aimed to help you relieve any sort of pains and aches. Your constant feedback helped us create something amazing, that assists our satisfied clients from all over the world. We continue to bring innovation to the pain-relief world, by using only the best ingredients and techniques.<br\/><\/p>",
+              "text": "<p>Our line of products are aimed to help you relieve any sort of pains and aches. Your constant feedback helped us create something amazing, that assists our satisfied clients from all over the world. We continue to bring innovation to the pain-relief world, by using only the best ingredients and techniques.<br/></p>",
               "button_style": "btn--primary",
               "button_label": "SHOP NOW",
-              "button_link": "shopify:\/\/collections\/all"
+              "button_link": "shopify://collections/all"
             }
           },
           "1630835807244097c6-1": {
             "type": "text_block",
             "settings": {
               "title": "The Right Use for You",
-              "image": "shopify:\/\/shop_images\/temperature.png",
+              "image": "shopify://shop_images/temperature.png",
               "icon": "",
-              "text": "<p>The products have been tailored to provide you with a variety of benefits. With hot & cold therapy, our multipurpose items can help  relieve your pain and help you get through the week.<\/p>",
+              "text": "<p>The products have been tailored to provide you with a variety of benefits. With hot & cold therapy, our multipurpose items can help  relieve your pain and help you get through the week.</p>",
               "button_style": "btn--primary",
               "button_label": "SHOP NOW",
-              "button_link": "shopify:\/\/collections\/all"
+              "button_link": "shopify://collections/all"
             }
           },
           "1630835807244097c6-2": {
             "type": "text_block",
             "settings": {
               "title": "Change Your Quality of Life",
-              "image": "shopify:\/\/shop_images\/mail_1.png",
+              "image": "shopify://shop_images/mail_1.png",
               "icon": "",
-              "text": "<p>It's great that you have decided to take care of your body. We want to be part of this journey with you. In our monthly newsletter you will find new ways to enjoy My Heating Pad products, together with info about successfully dealing with pain. Start your change here - sign up for our newsletter for a better, pain-free life.<br\/><br\/><\/p>",
+              "text": "<p>It's great that you have decided to take care of your body. We want to be part of this journey with you. In our monthly newsletter you will find new ways to enjoy My Heating Pad products, together with info about successfully dealing with pain. Start your change here - sign up for our newsletter for a better, pain-free life.<br/><br/></p>",
               "button_style": "btn--primary",
               "button_label": "SHOP NOW",
-              "button_link": "shopify:\/\/collections\/all"
+              "button_link": "shopify://collections/all"
             }
           }
         },
@@ -654,7 +661,7 @@
           "mobile_grid": "1",
           "show_view_all": true,
           "button_label": "View all",
-          "button_link": "shopify:\/\/collections\/all",
+          "button_link": "shopify://collections/all",
           "button_style": "btn--primary",
           "slider_related_products": true,
           "arrows": true,
@@ -669,36 +676,36 @@
           "16308363051c1aecd5-3": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Mask_Group_5.png",
+              "image": "shopify://shop_images/Mask_Group_5.png",
               "alignment": "center center",
-              "link": "https:\/\/www.chicagotribune.com\/consumer-reviews\/sns-bestreviews-wellness-the-best-microwavable-heating-pad-20191007-story.html",
+              "link": "https://www.chicagotribune.com/consumer-reviews/sns-bestreviews-wellness-the-best-microwavable-heating-pad-20191007-story.html",
               "cta_label": ""
             }
           },
           "16308363051c1aecd5-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Mask_Group_4.png",
+              "image": "shopify://shop_images/Mask_Group_4.png",
               "alignment": "center center",
-              "link": "https:\/\/www.health.com\/home\/best-heating-pads",
+              "link": "https://www.health.com/home/best-heating-pads",
               "cta_label": ""
             }
           },
           "16308363051c1aecd5-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Mask_Group_3.png",
+              "image": "shopify://shop_images/Mask_Group_3.png",
               "alignment": "center center",
-              "link": "https:\/\/bestreviews.com\/best-microwavable-heating-pads",
+              "link": "https://bestreviews.com/best-microwavable-heating-pads",
               "cta_label": ""
             }
           },
           "16308363051c1aecd5-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Mask_Group_2.png",
+              "image": "shopify://shop_images/Mask_Group_2.png",
               "alignment": "center center",
-              "link": "https:\/\/www.bustle.com\/life\/the-best-microwavable-heating-pads",
+              "link": "https://www.bustle.com/life/the-best-microwavable-heating-pads",
               "cta_label": ""
             }
           }
@@ -724,16 +731,16 @@
         "settings": {
           "show_on_desktop": true,
           "show_on_mobile": true,
-          "image": "shopify:\/\/shop_images\/Group_103.png",
+          "image": "shopify://shop_images/Group_103.png",
           "section_style": "section-blank",
           "text_size": "medium",
           "image_alignement": "right",
           "text_alignment": "",
           "title": "About us",
-          "text": "<p>When you’re in pain, it can be challenging to get through your day. We know this all too well. <\/p><p>My Heating Pad has been providing natural products for pain relief since 1999. Our mission is to provide high quality products that are affordable and work when you need them most.<br\/><br\/>We have helped thousands of people find the right product, whether they are looking for temporary relief or chronic pain management.<\/p>",
+          "text": "<p>When you’re in pain, it can be challenging to get through your day. We know this all too well. </p><p>My Heating Pad has been providing natural products for pain relief since 1999. Our mission is to provide high quality products that are affordable and work when you need them most.<br/><br/>We have helped thousands of people find the right product, whether they are looking for temporary relief or chronic pain management.</p>",
           "button_style": "btn--primary",
           "button_label": "Read more about us",
-          "button_link": "shopify:\/\/pages\/its-about-us"
+          "button_link": "shopify://pages/its-about-us"
         }
       },
       "16308364172f0d167e": {
@@ -742,13 +749,13 @@
         "settings": {
           "show_on_desktop": false,
           "show_on_mobile": false,
-          "image": "shopify:\/\/shop_images\/portrait-happy-doctors-with-clipboard_1_1.png",
+          "image": "shopify://shop_images/portrait-happy-doctors-with-clipboard_1_1.png",
           "section_style": "section-blank",
           "text_size": "medium",
           "image_alignement": "left",
           "text_alignment": "",
           "title": "Recommendations",
-          "text": "<p>Skip wires and plugs by opting for this microwavable pad instead. It’s filled with a combination of flaxseed and rice and heats up in just 90 seconds to give you instant relief. Small enough to fit onto knees or the crook of your neck, it’s double-sided with both a plush fleece and smooth cotton exterior to suit your preference. The budget-friendly pick, which is also great for cold therapy, has more than 700 perfect reviews from shoppers who say it’s durable, reliable, and easy to use.<\/p><p><\/p><p>-Doctor J.Choi -<\/p>",
+          "text": "<p>Skip wires and plugs by opting for this microwavable pad instead. It’s filled with a combination of flaxseed and rice and heats up in just 90 seconds to give you instant relief. Small enough to fit onto knees or the crook of your neck, it’s double-sided with both a plush fleece and smooth cotton exterior to suit your preference. The budget-friendly pick, which is also great for cold therapy, has more than 700 perfect reviews from shoppers who say it’s durable, reliable, and easy to use.</p><p></p><p>-Doctor J.Choi -</p>",
           "button_style": "btn--primary",
           "button_label": "",
           "button_link": ""
@@ -796,73 +803,59 @@
         "blocks": {
           "0b1dcdf9-758e-484b-80ee-a6e7a6b5ce6d": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "a07aa1f5-c722-424b-b70e-174df6fb9a6f": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "e493350a-079d-42ca-8dd6-4754ed3d2125": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "6140122e-2957-4464-a00b-25e1840f73a9": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "9fd26480-1864-4225-8198-6ec4668812d2": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "1ace6706-0621-424f-a615-3bca372e5a90": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "b5c36f51-64c7-4baf-b47c-6e30bd80361e": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "d1761516-0659-4aa5-b532-e35b5fb97a34": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "7c1084ba-7e2e-42eb-9d6c-df2a401a6576": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "81987cbf-87b0-4021-8575-940189c56992": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "2a2531ce-5fa5-4ee3-b8b9-e603b68b5689": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "9f1d15e9-7fce-4a6f-8373-b03a8d743cf8": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "70df55dc-a1a9-4624-a8f5-082d89e68e4e": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           },
           "a0572812-d968-44b4-933d-064062b84fb2": {
             "type": "bundle",
-            "settings": {
-            }
+            "settings": {}
           }
         },
         "block_order": [
@@ -993,16 +986,16 @@
         "settings": {
           "show_on_desktop": true,
           "show_on_mobile": true,
-          "image": "shopify:\/\/shop_images\/Group_103.png",
+          "image": "shopify://shop_images/Group_103.png",
           "section_style": "section-blank",
           "text_size": "medium",
           "image_alignement": "right",
           "text_alignment": "",
           "title": "About us",
-          "text": "<p><br\/>When you’re in pain, it can be challenging to get through your day. We know this all too well.<br\/><\/p><p>My Heating Pad has been providing natural products for pain relief since 1999. Our mission is to provide high quality products that are affordable and work when you need them most.<br\/><br\/>We have helped thousands of people find the right product, whether they are looking for temporary relief or chronic pain management.<br\/><\/p>",
+          "text": "<p><br/>When you’re in pain, it can be challenging to get through your day. We know this all too well.<br/></p><p>My Heating Pad has been providing natural products for pain relief since 1999. Our mission is to provide high quality products that are affordable and work when you need them most.<br/><br/>We have helped thousands of people find the right product, whether they are looking for temporary relief or chronic pain management.<br/></p>",
           "button_style": "btn--primary",
           "button_label": "Read more about us",
-          "button_link": "shopify:\/\/pages\/its-about-us"
+          "button_link": "shopify://pages/its-about-us"
         }
       },
       "1638788589fa8c2adf": {
@@ -1045,12 +1038,12 @@
           "show_on_mobile": true,
           "hide_section": false,
           "heading": "or Call US",
-          "address": "<p>Mon - Thu, 9am - 5pm PT<br\/>Friday, 9am - 3pm PT<\/p><p>1 (888) 250 2010<\/p>",
+          "address": "<p>Mon - Thu, 9am - 5pm PT<br/>Friday, 9am - 3pm PT</p><p>1 (888) 250 2010</p>",
           "map_address": "",
           "button_text": "",
           "map_icon": "",
           "api_key": "",
-          "background_image": "shopify:\/\/shop_images\/contact-us-phone.jpg",
+          "background_image": "shopify://shop_images/contact-us-phone.jpg",
           "image_position": "center center"
         }
       },
@@ -1065,8 +1058,7 @@
       },
       "dbtfy-account-settings": {
         "type": "dbtfy-account-settings",
-        "settings": {
-        }
+        "settings": {}
       },
       "dbtfy-product-tabs": {
         "type": "dbtfy-product-tabs",
@@ -1082,21 +1074,21 @@
         "settings": {
           "show_on_desktop": true,
           "show_on_mobile": true,
-          "image": "shopify:\/\/shop_images\/portrait-happy-beautiful-happy-youngwoman-relaxing-park-joyful-female-model-breathing-fresh-air-outdoors-enjoying-smell-flower-spring-summer-garden-vintage-tone.png",
-          "text_firstSection": "<p>We started MY HEATING PAD because we wanted to find an alternative way to treat our own aches and pains without prescription drugs or expensive medical procedures.<\/p>",
+          "image": "shopify://shop_images/portrait-happy-beautiful-happy-youngwoman-relaxing-park-joyful-female-model-breathing-fresh-air-outdoors-enjoying-smell-flower-spring-summer-garden-vintage-tone.png",
+          "text_firstSection": "<p>We started MY HEATING PAD because we wanted to find an alternative way to treat our own aches and pains without prescription drugs or expensive medical procedures.</p>",
           "title_upper_firstSection": "It's about",
           "title_firstSection": "THE REASON",
           "image_alignement_firstSection": "right",
-          "image_secondSection": "shopify:\/\/shop_images\/Component_7_1.png",
+          "image_secondSection": "shopify://shop_images/Component_7_1.png",
           "title_upper_secondSection": "It's about",
           "title_secondSection": "THE QUALITY",
           "image_alignement_secondSection": "left",
           "title_upper_thirdSection": "It's about",
-          "text_secondSection": "<p>We are proudly based in the USA. Our products are manufactured with high standards, so we can offer the best quality and customer experience, making sure you receive nothing but the best. <\/p>",
-          "image_thirdSection": "shopify:\/\/shop_images\/Component_6_1.png",
+          "text_secondSection": "<p>We are proudly based in the USA. Our products are manufactured with high standards, so we can offer the best quality and customer experience, making sure you receive nothing but the best. </p>",
+          "image_thirdSection": "shopify://shop_images/Component_6_1.png",
           "title_thirdSection": "THE MISSION",
           "image_alignement_thirdSection": "right",
-          "text_thirdSection": "<p>Our mission is to provide quality products that will ease our customers' pain and soothe their discomfort easily without side effects or bodily harm. With a commitment to quality craftsmanship, we aim to be a source of comfort and support on your wellness journey.<\/p>",
+          "text_thirdSection": "<p>Our mission is to provide quality products that will ease our customers' pain and soothe their discomfort easily without side effects or bodily harm. With a commitment to quality craftsmanship, we aim to be a source of comfort and support on your wellness journey.</p>",
           "custom_bg_for_section": true,
           "section_background_color": "#f6f6f6",
           "section_style": "section-blank",
@@ -1107,9 +1099,9 @@
           "button_link": "",
           "custom_class_section": "",
           "title_need_help": "Need Help?",
-          "text_need_help": "<p>We have a customer service team that is available 24\/7 to help you with any concerns or questions<br\/>you may have about our products. You can contact us by chat or you can send us an email.<\/p>",
-          "email_icon": "shopify:\/\/shop_images\/email.png",
-          "chat_icon": "shopify:\/\/shop_images\/chat.png"
+          "text_need_help": "<p>We have a customer service team that is available 24/7 to help you with any concerns or questions<br/>you may have about our products. You can contact us by chat or you can send us an email.</p>",
+          "email_icon": "shopify://shop_images/email.png",
+          "chat_icon": "shopify://shop_images/chat.png"
         }
       }
     },
@@ -1126,17 +1118,21 @@
     ],
     "blocks": {
       "1632603343a803235a": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/reviews_tab/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": true,
         "settings": {
           "position": "right"
         }
       },
       "163260334364673a28": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-product-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
+      },
+      "7002299155580658037": {
+        "type": "shopify://apps/re-amaze-ai-chat-helpdesk/blocks/reamaze-config/ef7a830c-d722-47c6-883b-11db06c95733",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
